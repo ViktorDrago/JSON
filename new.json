@@ -1,2 +1,6 @@
-1) Create json file
-2) Save json file
+{
+"FIO":"Postnikov Viktor",
+"age":"52",
+"count pets":7,
+"future salary":"2000$"
+}
